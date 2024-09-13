@@ -33,7 +33,7 @@ Installation and Setup
 Clone the Repository:
 
 
-git clone https://github.com/nyxisback/facial-recognition-attendance-system.git
+git clone [https://github.com/nyxisback/facial-recognition-attendance-system.git](https://github.com/nyxisback/Facial-Recognition-Attendance-Management.git)
 Install Dependencies:
 
 
