@@ -1,4 +1,6 @@
-Facial Recognition Attendance Management System
+*Facial Recognition Attendance Management System.*
+
+
 This project is a Facial Recognition-based Attendance Management System developed using Python. The system utilizes advanced facial recognition algorithms and OpenCV for real-time face detection and attendance logging, providing a secure and efficient way to manage attendance. The system integrates with MySQL for database management, allowing seamless record-keeping, and supports CSV export for logging attendance records.
 
 Key Features
