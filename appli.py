@@ -15,8 +15,8 @@ from PIL import Image, ImageTk
 db = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="laboon123",
-    database="Attendance"
+    password= <your_password>,
+    database= <your_database>
 )
 
 cursor = db.cursor()
@@ -73,7 +73,7 @@ def close_db_connection():
     cursor.close()
     db.close()
 
-path = r"C:\Users\avish\OneDrive\Documents\+=AAAAA\cmon\faces_known"
+path = "<path to the known faces folder>"
 images = []
 classNames = []
 myList = os.listdir(path)
